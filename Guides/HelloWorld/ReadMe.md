@@ -1,3 +1,3 @@
-#CONSOLE APPLICATION : Hello World Project Overview
+#Project: Hello World
 
 This project contains c++ code for a hello world c++ project.
