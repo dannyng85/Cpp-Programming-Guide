@@ -3,9 +3,9 @@
 
 using namespace std;			// Standard namespace which contains for object in iostream 
 
-// 
+// Entry points for the main program
 int main()
 {
-	cout << "Hello World\n";
-    return 0;
+	cout << "Hello World\n";	// String to display by the program
+    return 0;					// Return 0 let the OS know that there is no error from the program execution
 }
