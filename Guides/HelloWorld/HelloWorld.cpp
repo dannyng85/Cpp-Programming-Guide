@@ -6,6 +6,7 @@ using namespace std;			// Standard namespace which contains for object in iostre
 // Entry points for the main program
 int main()
 {
-	cout << "Hello World\n";	// String to display by the program
+	int number = 1;
+	cout << number << "\n";	// String to display by the program
     return 0;					// Return 0 let the operating system know that there is no error from the program execution
 }
